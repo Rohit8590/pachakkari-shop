@@ -1,2 +1,2 @@
-# pachakkari-shop
-fresh fruits only
+# palacharak
+fresh vegetables and fruits available here

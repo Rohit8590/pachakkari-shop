@@ -1,0 +1,140 @@
+        body{
+            background-color: rgb(186, 186, 139);
+        }
+        *{
+            margin: 0%;
+        }
+        .header{
+            width: 100%;
+            height: 110%;
+            background-color: black;
+        }
+        .hd{
+            color: bisque;
+            font-size: 50px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding-left: 200px;
+            padding-top: 10px;
+            text-decoration: none;
+        }
+        .hc{
+            color: aliceblue;
+            font-size: 15px;
+            text-decoration: none;
+            padding-left: 20px;
+        }
+        #pic{
+            width: 40px;
+            height: 40px;
+            float: right;
+            padding-left: 20px;
+            padding-top: 10px;
+        }
+        h1{
+            color:brown;
+            font-size: 50px;
+            padding-left: 150px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        #de{
+            color:brown;
+            font-size: 32px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        .we{
+            color: blue;
+            font-size: 32px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        #hi{
+            color: blue;
+            font-size: 32px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        .content{
+            background-image: url(dd.webp);
+            /* background-image: url(anime.jpg); */
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 100%;
+            height:700px;
+            text-align: center;
+        }
+        h2{
+            color: rgb(248, 250, 255);
+            font-size: 100px;
+            font-family: Castellar;
+            padding-top: 100px;
+            text-align: center;
+        }
+        h3{
+            color: rgb(220, 184, 3);
+            font-size: 40px;
+            font-family: Castellar;
+        }
+        p{
+            color: rgb(255, 255, 255);
+            font-size: 35px;
+            font-family: Bahnschrift SemiBold;
+            padding-top: 300px;
+        }
+        .service{
+            width: 100%;
+            height: 950px;
+            text-align: center;
+            
+
+        }
+        #re,#ro{
+            color: black;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 40px;
+
+        }
+        #ro{
+            color: black;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 20px;
+            padding-top: 20px;
+        }
+        #bb{
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 50px;
+        }
+        .img{
+            width: 400px;
+            height:400px;
+            float: left;
+            margin-left: 80px;
+            margin-top: 20px;
+        }
+        #im{
+            width: 250px;
+            height: 250px;
+        }
+        .rr{
+            color: black;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 30px; 
+            padding-top: 20px;
+            background-color: darkgray;
+            width: 250px;
+            margin-left: 80px;
+        }
+        .footer{
+            width: 100%;
+            height: 160px;
+            background-color: rgb(175, 182, 185);
+
+        }
+        #ins{
+            color: black;
+            font-size: 30px;
+        }
+        #cp{
+            text-decoration: none;
+            color: black;
+            text-align: center;
+            
+            padding-left: 600px;
+        }

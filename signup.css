@@ -1,0 +1,51 @@
+
+        .header{
+            width: 100%;
+            height: 110%;
+            background-color: black;
+            
+        }
+        .hd{
+            color: rgb(255, 255, 255);
+            font-size: 50px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            padding-left: 200px;
+            padding-top: 10px;
+            text-decoration: none;
+        }
+        .hc{
+            color: aliceblue;
+            font-size: 15px;
+            text-decoration: none;
+            padding-left: 20px;
+        }
+        #pic{
+            width: 40px;
+            height: 40px;
+            float: right;
+            padding-left: 20px;
+            padding-top: 10px;
+        }
+        .regform{
+            width: 500px;
+            height: 500px;
+            background-color: aqua;
+            background-image: url(vv.webp);
+            margin-top: 30px;
+            place-items: center;
+            border-radius: 10px;
+            box-shadow: 2px 2px 2px 2px;
+
+        }
+        #jj{
+            color: rgb(255, 255, 255);
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #f{
+            width: 400px;
+            height: 400px;
+        }
+        #t{
+            font-size: 20px;
+            color: aliceblue;
+        }
